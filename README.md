@@ -1,5 +1,7 @@
 # Proyecto Supersalud
 
+![](/Imagenes/logo-supersalud.PNG)
+
 ## Introducción
 
 Este repositorio contiene la información y documentos usados para la realización de un proyecto de arquitectura empresarial y tranformación digital de la Supersalud.
