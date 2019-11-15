@@ -1,6 +1,6 @@
 # Proyecto Supersalud
 
-![](/Imagenes/logo-supersalud.PNG)
+![](/Imagenes/logo-supersalud.png)
 
 ## Introducción
 
